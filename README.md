@@ -1,2 +1,2 @@
-# AllTools
-Multi tools website
+# AllTools.org
+multi tools website
